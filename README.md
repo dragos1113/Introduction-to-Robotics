@@ -13,7 +13,7 @@ This is where I will post all homeworks and projects related to robotics.
 </ul>
 <br> </br>
 
-<b>Setup:</b> ![Setup](https://github.com/dragos1113/Introduction-to-Robotics/blob/main/image_2023-10-22_213435945.png)
+<b>Setup:</b> ![Setup](https://github.com/dragos1113/Introduction-to-Robotics/blob/main/Homework%201.jpg)
 
 <b>Link video:</b> https://www.youtube.com/watch?v=JCa2CL2eRg4
 
