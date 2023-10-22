@@ -11,3 +11,9 @@ This is where I will post all homeworks and projects related to robotics.
 <li>3 Potentiometers</li>
 <li>Wires and Resistors</li>
 </ul>
+<br> </br>
+
+<b>Setup:</b> ![Setup](https://github.com/dragos1113/Introduction-to-Robotics/blob/main/image_2023-10-22_213435945.png)
+
+<b>Link video:</b> https://www.youtube.com/watch?v=JCa2CL2eRg4
+
