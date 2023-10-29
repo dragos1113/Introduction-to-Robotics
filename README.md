@@ -25,7 +25,7 @@ This is where I will post all homeworks and projects related to robotics.
   <li>4 LEDs</li>
   <li>3 Push Buttons</li>
   <li>1 Passive Buzzer</li>
-  <li>Wires and Rezistors(For the yellow LED i didn't have a small rezistor so i used a bigger one)</li>
+  <li>Wires and Rezistors(For the yellow LED i didn't have a small resistor so i used a bigger one)</li>
 
 </ul>
 <br>
