@@ -37,5 +37,21 @@ This is where I will post all homeworks and projects related to robotics.
 <br>
 <b>Link proof:</b> https://www.youtube.com/watch?v=TdEsREJIu4Q
 
+<h3>Homework #4</h3>
+
+
+<b>Task Requirements:</b> Using the 4 digit 7 segment display and 3 buttons,implement a stopwatch timer that counts in 10ths of a secondand has a save lap functionality.
+<br></br>Components Used:<br></br>
+<ul>
+  <li>4 digit 7 segment display</li>
+  <li>1 Push Button</li>
+  <li>74HC595 Shift Register</li>
+  <li>Wires and Rezistors</li>
+</ul>
+<br>
+<b>Link video:</b> https://www.youtube.com/watch?v=LXxR0g_CbFI
+<br>
+
+<b>Setup:</b> ![Setup](https://github.com/dragos1113/Introduction-to-Robotics/blob/main/Homework4.jpg)
 
 
