@@ -49,9 +49,10 @@ This is where I will post all homeworks and projects related to robotics.
   <li>Wires and Rezistors</li>
 </ul>
 <br>
-<b>Link video:</b> https://www.youtube.com/watch?v=LXxR0g_CbFI
-<br>
 
 <b>Setup:</b> ![Setup](https://github.com/dragos1113/Introduction-to-Robotics/blob/main/Homework4.jpg)
+<br>
+
+<b>Link video:</b> https://www.youtube.com/watch?v=LXxR0g_CbFI
 
 
