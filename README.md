@@ -55,4 +55,21 @@ This is where I will post all homeworks and projects related to robotics.
 
 <b>Link video:</b> https://www.youtube.com/watch?v=LXxR0g_CbFI
 
+<br>
+
+<h3>Homework 6</h3>
+
+<b>Task requirements:</b> Develop a small game on the 8x8 matrix. The game must have at least 3 types of elements: player (blinks slowly), bombs/bullets (blinks fast), wall (doesn’t blink).
+<br>Components used:
+<ul>
+  <li>8x8 LED Matrix</li>
+  <li>MAX7219</li>
+  <li>Joystick</li>
+  <li>Resistors, Capacitors and Wires</li>
+</ul>
+
+<b>Setup:</b> ![Setup](https://github.com/dragos1113/Introduction-to-Robotics/blob/main/Homework6.jpg)
+<br>
+
+<b>Link video:</b> https://www.youtube.com/watch?v=AEtKgpwTcpI
 
